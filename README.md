@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mag-24
+- 👋 Hi, I’m @silicolicious
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C, front-end development.
 - 💞️ I’m looking to collaborate on simple yet interesting projects.
