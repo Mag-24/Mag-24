@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silicolicious
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C, front-end development.
+- 🌱 I’m currently learning Python, C, C++, Front-End Development, Machine Learning.
 - 💞️ I’m looking to collaborate on simple yet interesting projects.
 - 📫 How to reach me: magesh12.2002@gmail.com
 
